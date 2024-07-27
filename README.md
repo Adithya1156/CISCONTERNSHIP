@@ -35,31 +35,31 @@ Here are the visual representations of the campus network topology as designed i
 
 #### Screenshot 1: Main Server Room
 
-![Screenshot 1](Snaps/1.png)
+![Screenshot 1](https://github.com/user-attachments/assets/6bae6afe-336f-4afa-8726-99c05c195123)
 
 #### Screenshot 2: Advance Block
 
-![Screenshot 2](Snaps/2.png)
+![Screenshot 2](https://github.com/user-attachments/assets/0de0492d-d4b7-4571-90d7-4360a9b240e0)
 
 #### Screenshot 3: St Paul's Block
 
-![Screenshot 3](Snaps/3.png)
+![Screenshot 3](https://github.com/user-attachments/assets/856e83d8-1b7c-4a3a-8443-a36cd613c496)
 
 #### Screenshot 4: Hostel blocks
 
-![Screenshot 4](Snaps/4.png)
+![Screenshot 4](https://github.com/user-attachments/assets/ca5d7a0c-54b0-4275-b50f-866d2e280816)
 
 #### Screenshot 5: Academic Block 4
 
-![Screenshot 5](Snaps/5.png)
+![Screenshot 5](https://github.com/user-attachments/assets/45b3db23-b29c-4648-a7cc-2734cd4fd730)
 
 #### Screenshot 6: Library Building
 
-![Screenshot 6](Snaps/6.png)
+![Screenshot 6](https://github.com/user-attachments/assets/64934ca7-2fec-4216-bdbf-ec794663c31f)
 
 #### Screenshot 7: Block 18
 
-![Screenshot 7](Snaps/7.png)
+![Screenshot 7](https://github.com/user-attachments/assets/328859aa-8bdf-401e-9720-6e2f15a04dc9)
 
 ## Files Included in the Repository
 
