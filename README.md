@@ -55,7 +55,7 @@ Here are the visual representations of the campus network topology as designed i
 
 #### Screenshot 6: Library Building
 
-![Screenshot 6](https://github.com/user-attachments/assets/64934ca7-2fec-4216-bdbf-ec794663c31f)
+![Screenshot 6](https://github.com/user-attachments/assets/260ffa55-65aa-41a8-b801-8cb1e8aaaab9)
 
 #### Screenshot 7: Block 18
 
